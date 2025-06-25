@@ -1,0 +1,17 @@
+time to build a document: 0.5s
+query latency: 0.3s/1 query
+index vector: dim 768
+create index: 0.2ms
+create index vector: 1s
+number of documents:
++books: 9708
++authors: 4606
+database size: 120.47mb
+avg document size: 11.67kb
+index size: 966.65kb
+index temp space: 
+
+testing on books:
+number of tokens: 25071
+number of relevant results retrieved: 6268
+precision at p=5 : 0.25

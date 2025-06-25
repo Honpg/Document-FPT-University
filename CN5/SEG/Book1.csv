@@ -1,0 +1,15 @@
+﻿Title,Name_author
+Url_book,Url_author
+TitleComplete,BirthDate
+Description,DeathDate
+ImageUrl,About
+"Identifiers[Asin:values,Isbn13:values,Isbn:values,Publisher:values, PublishDate:values ]",Genres _of_author 
+Series,"FeedBack_author[AvgRating:values,ReviewsCount_author:values,RatingsCount_author:values]"
+Characters,Influences
+"FeedBack_book[RatingHistogram:values,RatingsCount_book : ,ReviewsCount_book:values]",
+NumPages,
+Language,
+"Awards[Name:values, AwardedAt:values , Category:values]",
+Places,
+Genres_book,
+Author__write_book,
